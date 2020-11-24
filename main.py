@@ -28,7 +28,7 @@ Settings(
         },
         {
             "BACKEND": "pyot.stores.RiotAPI",
-            "API_KEY": "RGAPI-23b22ba1-6c6c-45f7-abf6-73c69f9f1dbd",
+            "API_KEY": "RGAPI-23b22ba1-6c6c-45f7-abf6-73c*********",
             "RATE_LIMITER": {
                 "BACKEND": "pyot.limiters.MemoryLimiter",
                 "LIMITING_SHARE": 1,
